@@ -1,0 +1,68 @@
+.nickname_player{
+    width: 250px;
+    display: flex;
+    margin-left: 55%;
+    align-items: center;
+    border: ridge 2px;
+    border-radius: 10px;
+}
+.logo_garena{
+    width: 70px;
+    height: 70px;
+    margin-left: 08%;
+}
+.suporte{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    align-items: center;
+    border: inset 0.5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.br{
+    width: 37px;
+    height: 37px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+.JOTAVVE{
+    font-size: 17px;
+}
+.GARENA{
+    color: rgb(193, 11, 11);
+    font-size: 30px;
+}
+.elementos_principais{
+    display: grid;
+    place-items: center;
+}
+.imagem_principal{
+    width: 1000px;
+    height: 400px;
+    margin-top: 50px;
+}
+.escolher_jogo_desejado{
+    margin-right: 830px;
+    font-size: 25px;
+}
+.freefire{
+    margin-right: 50px;
+}
+.FF{
+    width: 120px;
+}
+.nomedojogo{
+    font-size: 19px;
+    margin-left: 18px;
+    margin-top: 12px;
+}
+.BlackCoverM{
+    margin-left: 550px;
+    margin-bottom: 200px;
+}
+.FLEX{
+    display: flex;
+}
